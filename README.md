@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SangleSumedh
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Software Development and Learning new Problem solving techniques
 - 🌱 I’m currently learning Front End Web Development 
 - 💞️ I’m looking to collaborate on Projects based on web technologies
 - 📫 How to reach me : email: sanglesumedh15@gmail.com  
