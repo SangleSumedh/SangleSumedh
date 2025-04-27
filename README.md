@@ -2,9 +2,9 @@
 
 ---
 
-- 🔭 I’m currently working on **Front-End Web Development** and **Fullstack Development** using MERN and Next.js
+- 🔭 I’m currently working on **Fullstack Development** using MERN and Next.js
 - 🌱 Constantly learning new **Problem-Solving Techniques** and **Modern Web Technologies**
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **JavaScript, React, Next.js, HTML, CSS, Git!**
 - 📫 How to reach me: **[sanglesumedh15@gmail.com](mailto:sanglesumedh15@gmail.com)**
 - ⚡ Fun fact: The real name for a hashtag is an **Octothorpe**!
