@@ -36,7 +36,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 Ongoing Projects
 
 ### 🔹 Next.js Authentication Template
 
