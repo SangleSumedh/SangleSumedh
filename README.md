@@ -38,9 +38,10 @@
 
 ## 📂 Ongoing Projects
 
-### 🔹 Next.js Authentication Template
+### 🔹 StackOverflow-Clone
 
-> A fully functioning Next.js authentication boilerplate to kickstart future projects. Includes features like email verification with OTP (bcrypt hashed) and forgot password recovery via Nodemailer and Mailtrap.
+> A fully functioning stack-overflow functionality clone with upvote and downvote mechanisms, along with plans to include some new features.
+
 
 Tech Stack: `Next.js`, `MongoDB`, `TailwindCSS`, `Nodemailer`
 
