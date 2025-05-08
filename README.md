@@ -43,7 +43,7 @@
 > A fully functioning stack-overflow functionality clone with upvote and downvote mechanisms, along with plans to include some new features.
 
 
-Tech Stack: `Next.js`, `MongoDB`, `TailwindCSS`, `Nodemailer`
+Tech Stack: `Next.js`, `MongoDB`, `TailwindCSS`, `Nodemailer`, `Appwrite`, `Zustang`
 
 ---
 
