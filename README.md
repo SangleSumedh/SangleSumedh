@@ -38,23 +38,15 @@
 
 ## 📂 Ongoing Projects
 
-### 🔹 StackOverflow-Clone
+### 🔹 DebugDen 
 
-> A fully functioning stack-overflow functionality clone with upvote and downvote mechanisms, along with plans to include some new features.
+> A fully functioning stack overflow type community QNA application with support for AI answers.
 
 
-Tech Stack: `Next.js`, `MongoDB`, `TailwindCSS`, `Nodemailer`, `Appwrite`, `Zustang`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SangleSumedh&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SangleSumedh&theme=tokyonight" width="400"/>
-</p>
+Tech Stack: `Next.js`, `MongoDB`, `TailwindCSS`, `Appwrite`, `Zustang`, , `OpenRouter`
 
 ---
+
 
 ## 🔗 Connect with me
 
