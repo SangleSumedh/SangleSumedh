@@ -28,10 +28,10 @@
 ## 🛠️ Current Endeavors
 
 - 🚀 Fullstack Development using **MERN stack** and **Next.js**
-- 💼 **Intern** at **codeXslinger**
+- 💼 **Intern** at **Gryphon Academy**
 - ⚛️ Building responsive web apps with **React.js** and **Next.js**
 - 🧠 Strengthening **Data Structures and Algorithms**
-- 🔗 Exploring **API integrations** in web applications
+- 🔗 Exploring **AI integrations** in web applications
 - 🎨 Learning **UI/UX Design Principles**
 
 ---
