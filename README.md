@@ -71,9 +71,15 @@ Next.js, Express.js, Firebase, WebRTC, TensorFlow.js, NSFWJS
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="sumedhsangle.space" target="_blank">
-    <img src="https://www.sumedhsangle.space/favicon.ico"/>
-  </a>
+  <a href="https://sumedhsangle.space" target="_blank">
+  <img
+    src="https://www.sumedhsangle.space/favicon.ico"
+    alt="Portfolio"
+    width="40"
+    height="40"
+    style="border-radius: 8px;"
+  />
+</a>
   <a href="mailto:sanglesumedh15@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
