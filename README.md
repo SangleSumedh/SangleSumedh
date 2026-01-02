@@ -38,14 +38,16 @@
 
 ## 📂 Ongoing Projects
 
-### 🔹 DebugDen 
+### 🔹 Blindspark 
 
-> A fully functioning stack overflow type community QNA application with support for AI answers.
+> A peer-to-peer real-time social interaction platform leveraging WebRTC for live communication, with a backend-driven moderation and matchmaking layer built on Express and Next.js.
 
 
-Tech Stack: `Next.js`, `MongoDB`, `TailwindCSS`, `Appwrite`, `Zustang`, , `OpenRouter`
+Tech Stack: `Next.js`, `Firebase`, `Express.js`, `WebRTC`, `TensorFlow.js`,  `NSFWJS`
 
 ---
+
+
 
 
 ## 🔗 Connect with me
