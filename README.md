@@ -1,64 +1,83 @@
-# 👋 Hi there, I'm Sumedh Sangle!
+# 👋 Hi, I’m Sumedh Sangle
+
+Backend-focused Full Stack Software Engineer with hands-on experience building
+real-time, scalable web applications and APIs. I enjoy working on system design,
+data-driven features, and performance-critical backend logic.
 
 ---
 
-- 🔭 I’m currently working on **Fullstack Development** using MERN and Next.js
-- 🌱 Constantly learning new **Problem-Solving Techniques** and **Modern Web Technologies**
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-- 💬 Ask me about **JavaScript, React, Next.js, HTML, CSS, Git!**
-- 📫 How to reach me: **[sanglesumedh15@gmail.com](mailto:sanglesumedh15@gmail.com)**
-- ⚡ Fun fact: The real name for a hashtag is an **Octothorpe**!
+## 🧠 What I Work On
+
+- 🔭 Building **full stack applications** with a strong focus on backend architecture  
+- ⚙️ Designing **APIs, real-time systems, and matchmaking logic**
+- 🧠 Actively improving **problem-solving and data structures**
+- 🤝 Open to collaborating on **backend-heavy full stack projects**
+- 📫 Reach me at: **[sanglesumedh15@gmail.com](mailto:sanglesumedh15@gmail.com)**
+- ⚡ Fun fact: The real name for a hashtag is an **Octothorpe**
 
 ---
 
-## 🚀 Skills
+## 🚀 Technical Skills
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Core**
+- JavaScript (ES6+), Node.js
+- Express.js, REST APIs
+- Next.js (App Router, SSR)
+- WebRTC (signaling, peer-to-peer communication)
+
+**Databases & Auth**
+- Firebase Authentication
+- Firestore
+- MongoDB
+
+**Frontend**
+- React.js
+- Tailwind CSS
+- HTML5, CSS3
+
+**Tools**
+- Git & GitHub
 
 ---
 
 ## 🛠️ Current Endeavors
 
-- 🚀 Fullstack Development using **MERN stack** and **Next.js**
-- 💼 **Intern** at **Gryphon Academy**
-- ⚛️ Building responsive web apps with **React.js** and **Next.js**
-- 🧠 Strengthening **Data Structures and Algorithms**
-- 🔗 Exploring **AI integrations** in web applications
-- 🎨 Learning **UI/UX Design Principles**
+- 💼 **Software Engineer Intern** at **Gryphon Academy**
+- 🚀 Developing full stack applications using **Next.js + Express**
+- ⚛️ Building production-grade React & Next.js applications
+- 🧠 Strengthening **DSA and backend problem-solving**
+- 🔗 Integrating **AI-based features** into web platforms
+- 🎨 Learning UI/UX principles to improve product usability
 
 ---
 
-## 📂 Ongoing Projects
+## 📂 Featured Project
 
-### 🔹 Blindspark 
+### 🔹 **Blindspark**
 
-> A peer-to-peer real-time social interaction platform leveraging WebRTC for live communication, with a backend-driven moderation and matchmaking layer built on Express and Next.js.
+> A real-time peer-to-peer social interaction platform built on WebRTC, featuring a backend-driven matchmaking and moderation layer designed for scalable and safe user interactions.
 
+**Key Highlights**
+- Real-time peer-to-peer communication using WebRTC
+- Backend-managed matchmaking and session lifecycle
+- AI-powered moderation layer for content safety
+- Scalable signaling architecture using Express.js
 
-Tech Stack: `Next.js`, `Firebase`, `Express.js`, `WebRTC`, `TensorFlow.js`,  `NSFWJS`
+**Tech Stack:**  
+Next.js, Express.js, Firebase, WebRTC, TensorFlow.js, NSFWJS
 
 ---
 
-
-
-
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
 <p align="left">
-<a href="mailto:sanglesumedh15@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/sumedhsangle" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="sumedhsangle.space" target="_blank">
+    <img src="https://www.sumedhsangle.space/favicon.ico"/>
+  </a>
+  <a href="mailto:sanglesumedh15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sumedhsangle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
----
