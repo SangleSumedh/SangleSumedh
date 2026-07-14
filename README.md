@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Sumedh Sangle
 
-Backend-focused Full Stack Software Engineer with hands-on experience building
-real-time, scalable web applications and APIs. I enjoy working on system design,
-data-driven features, and performance-critical backend logic.
+Jr. Software Engineer with hands-on experience building real-time, scalable web
+applications and APIs. I enjoy working on system design, data-driven features, 
+and performance-critical backend logic.
 
 ---
 
@@ -11,7 +11,7 @@ data-driven features, and performance-critical backend logic.
 - 🔭 Building **full stack applications** with a strong focus on backend architecture  
 - ⚙️ Designing **APIs, real-time systems, and matchmaking logic**
 - 🧠 Actively improving **problem-solving and data structures**
-- 🤝 Open to collaborating on **backend-heavy full stack projects**
+- 🤝 Open to collaborating on **backend systems**
 - 📫 Reach me at: **[sanglesumedh15@gmail.com](mailto:sanglesumedh15@gmail.com)**
 - ⚡ Fun fact: The real name for a hashtag is an **Octothorpe**
 
