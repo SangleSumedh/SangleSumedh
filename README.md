@@ -21,12 +21,12 @@ and performance-critical backend logic.
 
 **Core**
 - JavaScript (ES6+), Node.js
-- Express.js, REST APIs
+- .NET core
 - Next.js (App Router, SSR)
 - WebRTC (signaling, peer-to-peer communication)
 
 **Databases & Auth**
-- Firebase Authentication
+- Postgresql
 - Firestore
 - MongoDB
 
