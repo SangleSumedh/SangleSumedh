@@ -42,9 +42,8 @@ and performance-critical backend logic.
 
 ## 🛠️ Current Endeavors
 
-- 💼 **Software Engineer Intern** at **Gryphon Academy**
-- 🚀 Developing full stack applications using **Next.js + Express**
-- ⚛️ Building production-grade React & Next.js applications
+- 💼 **Jr. Software Engineer** at **Gryphon Academy**
+- 🚀 Developing full stack applications using **Next.js + .Net**
 - 🧠 Strengthening **DSA and backend problem-solving**
 - 🔗 Integrating **AI-based features** into web platforms
 - 🎨 Learning UI/UX principles to improve product usability
